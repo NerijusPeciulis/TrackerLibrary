@@ -4,7 +4,9 @@
     <OutputType>WinExe</OutputType>
     <TargetFramework>net5.0-windows</TargetFramework>
     <Nullable>enable</Nullable>
-    <UseWindowsForms>true</UseWindowsForms>
+    <UseWindowsForms>True</UseWindowsForms>
+    <UseWPF>True</UseWPF>
+    <StartupObject>TrackerUI.Program</StartupObject>
   </PropertyGroup>
 
 </Project>
